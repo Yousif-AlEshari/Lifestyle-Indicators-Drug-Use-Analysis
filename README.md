@@ -5,13 +5,21 @@ This repository contains an exploratory data analysis (EDA) project that examine
 ## Table of Contents:
 
 [Project Objectives](#Project-Objectives)
+
 [Dataset](#Dataset)
+
 [Methods & Workflow](#Methods-&-Workflow)
+
 [Key Visualizations](#Key-Visualizations)
+
 [Results](#Results)
+
 [How to Run](#How-To-Run)
+
 [Environment &amp; Dependencies](#Environment-&-Dependencies)
+
 [Assumptions, Limitations &amp; Ethics](#Assumptions,-Limitations-&-Ethics)
+
 [Author](#Author)
 
 ## Project Objectives
@@ -77,19 +85,19 @@ The notebook Drug_Abuse_Analysis.ipynb follows this flow:
 ## Key Visualizations
 - Correlation heatmap (all features; Pearson on label-encoded columns).
 
-![Correlation_Heatmap](images\heatmap.png)
+![Correlation_Heatmap](images/heatmap.png)
 
 - Grouped bar charts showing `Drug_or_not` vs selected binary features.
 
-![BarChart](images\drug_smoking.png)
+![BarChart](images/drug_smoking.png)
 
 - Line plots (e.g., Stress/Legal risk; Risk factor/Legal risk; Legal risk/Weighted stress).
 
-![LineGraph](images\healthrisk_legal.png)
+![LineGraph](images/healthrisk_legal.png)
 
 - Box plots of numeric features stratified by `Drug_or_not` (stress, risk factor, health, legal risk).
 
-![Box_Plot](images\drug_legal.png)
+![Box_Plot](images/drug_legal.png)
 
 ## Results
 The analyses (both figures and contingency tables) consistently point to the following associations:
