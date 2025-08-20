@@ -8,7 +8,7 @@ This repository contains an exploratory data analysis (EDA) project that examine
 
 [Dataset](#Dataset)
 
-[Methods & Workflow](#Methods-&-Workflow)
+[Methods & Workflow](#Methods--Workflow)
 
 [Key Visualizations](#Key-Visualizations)
 
@@ -16,9 +16,9 @@ This repository contains an exploratory data analysis (EDA) project that examine
 
 [How to Run](#How-To-Run)
 
-[Environment &amp; Dependencies](#Environment-&-Dependencies)
+[Environment &amp; Dependencies](#Environment--Dependencies)
 
-[Assumptions, Limitations &amp; Ethics](#Assumptions,-Limitations-&-Ethics)
+[Assumptions, Limitations &amp; Ethics](#Assumptions-Limitations--Ethics)
 
 [Author](#Author)
 
